@@ -29,7 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vi
 ### Prerequisites
 
 - Node.js 18.17.0 or later
-- pnpm
+- pnpm (since it is used for package management)
 
 ### Installation
 
