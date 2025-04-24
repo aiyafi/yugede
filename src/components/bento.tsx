@@ -20,7 +20,7 @@ export function Bento() {
   });
 
   return (
-    <div ref={containerRef}>
+    <div className="pt-4 pb-[50px]" ref={containerRef}>
       <BentoGrid className="max-w-5xl mx-auto md:auto-rows-[20rem]">
         {items.map((item, i) => (
           <BentoGridItem

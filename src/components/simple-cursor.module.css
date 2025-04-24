@@ -8,4 +8,5 @@
     z-index: 10000;
 
     background-color: var(--cursor-color);
+    transition: background-color 0.3s ease-in-out;
 }
