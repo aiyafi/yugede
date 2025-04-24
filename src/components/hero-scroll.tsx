@@ -16,7 +16,7 @@ export function HeroScroll() {
                 className="size-1.5 rounded-full bg-emerald-500"
                 aria-hidden="true"
               ></span>
-              <AnimatedShinyText>Vibing Since 2k19</AnimatedShinyText>
+              <AnimatedShinyText>Vibing Since 2k18</AnimatedShinyText>
             </Badge>
             <h1 className="text-xl relative md:text-4xl font-semibold text-black dark:text-white">
               Welcome to our HQ  <br />
