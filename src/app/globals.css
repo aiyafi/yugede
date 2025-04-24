@@ -42,7 +42,7 @@
   --radius-xl: calc(var(--radius) + 4px);
 
   --animate-shiny-text: shiny-text 4s infinite;
- 
+
   @keyframes shiny-text {
     0%,
     90%,
@@ -89,6 +89,8 @@
   --sidebar-accent-foreground: oklch(0.21 0.006 285.885);
   --sidebar-border: oklch(0.92 0.004 286.32);
   --sidebar-ring: oklch(0.623 0.214 259.815);
+
+  --cursor-color: var(--foreground);
 }
 
 .dark {
@@ -123,6 +125,8 @@
   --sidebar-accent-foreground: oklch(0.985 0 0);
   --sidebar-border: oklch(1 0 0 / 10%);
   --sidebar-ring: oklch(0.488 0.243 264.376);
+
+  --cursor-color: var(--foreground);
 }
 
 @layer base {
