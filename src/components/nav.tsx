@@ -26,11 +26,11 @@ export function Nav() {
   const navItems = [
     {
       name: "Home",
-      link: "#home",
+      link: "/",
     },
     {
       name: "Gallery",
-      link: "#gallery",
+      link: "/gallery",
     },
   ];
 
